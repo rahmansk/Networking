@@ -8,7 +8,7 @@ In this presentation, I had just given the basic enough of networking concepts a
 
 Who is this for:
 
-*Beginners
-*Students
-*Non-IT/IT Peoples
+*Beginners</br>
+*Students</br>
+*Non-IT/IT Peoples</br>
 *ALmost everyone.....
